@@ -1,0 +1,26 @@
+/* todos os imports tem de ser colocadas no inicio do CSS */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Lycian&display=swap');
+
+body{
+    background-color: darkviolet;
+}
+
+.figura{
+    width: 500px;
+}
+
+.figura2{
+    width: 500px;
+}
+
+.figura3{
+    width: 500px;
+}
+
+/* classe para configuração */
+.fonte{
+    color:rgb(255, 168, 168);
+    font-size: 40px;
+    font-family: "Noto Sans Lycian", sans-serif;
+}
+
